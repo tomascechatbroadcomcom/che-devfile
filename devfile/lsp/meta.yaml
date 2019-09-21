@@ -1,1 +1,13 @@
-
+publisher: lsp publisher
+apiVersion: v2
+name: lspname
+version: latest
+type: VS Code extension
+displayName: lspdisplayName
+title: lsp title.
+description: lsp description hhh.
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+category: Other
+spec:
+  extensions:
+  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/lsp0.8.0/broadcomMFD.cobol-language-support-0.8.0.vsix
