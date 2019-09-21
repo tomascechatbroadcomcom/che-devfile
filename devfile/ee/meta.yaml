@@ -7,9 +7,7 @@ displayName: muj ee
 title: muj title ee.
 description: muj ee descriptiomn ggg.
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
-repository: https://github.com/tomascechatbroadcomcom/che-devfile
 category: Other
-firstPublicationDate: '2019-07-4'
 spec:
   extensions:
   - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/vEE_0.8.0/broadcomMFD.explorer-for-endevor-0.8.0.vsix
