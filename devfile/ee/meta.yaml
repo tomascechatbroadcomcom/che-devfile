@@ -5,7 +5,7 @@ version: latest
 type: VS Code extension
 displayName: muj ee
 title: muj title ee.
-description: muj ee descriptiomn ggg.
+description: muj ee descriptiomn hhh.
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 category: Other
 spec:
