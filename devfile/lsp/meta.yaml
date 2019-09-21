@@ -1,9 +1,9 @@
 publisher: lsp publisher
 apiVersion: v2
-name: lspname
+name: lsp name
 version: latest
 type: VS Code extension
-displayName: lspdisplayName
+displayName: lsp displayName
 title: lsp title.
 description: lsp description hhh.
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
