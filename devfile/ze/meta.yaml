@@ -1,1 +1,13 @@
-
+publisher: ze publisher
+apiVersion: v2
+name: ze name
+version: latest
+type: VS Code extension
+displayName: ze displayName
+title: ze title.
+description: ze description zzz.
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+category: Other
+spec:
+  extensions:
+  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/ZE_0.8.0/broadcomMFD.zosexplorer-0.8.0.vsix
