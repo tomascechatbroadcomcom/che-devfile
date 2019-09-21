@@ -1,1 +1,13 @@
-
+publisher: ja
+apiVersion: v2
+name: bitlang name
+version: latest
+type: VS Code extension
+displayName: bitlang displayNme
+title: bitlang title.
+description: bitlang description ggg.
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+category: Other
+spec:
+  extensions:
+  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/bitlang/bitlang.cobol-5.3.6.vsix
