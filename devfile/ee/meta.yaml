@@ -1,11 +1,11 @@
-publisher: ja
+publisher: ee publisher
 apiVersion: v2
-name: eename
+name: ee name
 version: latest
 type: VS Code extension
-displayName: muj ee
-title: muj title ee.
-description: muj ee descriptiomn hhh.
+displayName: ee displayName
+title: ee title.
+description: ee descriptiomn eee.
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 category: Other
 spec:
