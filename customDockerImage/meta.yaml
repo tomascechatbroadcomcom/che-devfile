@@ -45,6 +45,7 @@ spec:
   containers:
     - name: theia
       image: czprapd-registry.mcl.broadcom.net:443/che-brd-theia:latest
+      imagePullPolicy: Always
       env:
           - name: THEIA_PLUGINS
             value: local-dir:///plugins
