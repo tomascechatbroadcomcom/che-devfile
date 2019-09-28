@@ -10,4 +10,5 @@ icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 category: Other
 spec:
   extensions:
-  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/ZE_0.8.0/broadcomMFD.zosexplorer-0.8.0.vsix
+  - vscode:extension/broadcomMFD.zosexplorer
+
