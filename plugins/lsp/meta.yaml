@@ -10,4 +10,4 @@ icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 category: Other
 spec:
   extensions:
-  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/lsp0.8.0/broadcomMFD.cobol-language-support-0.8.0.vsix
+  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/lsp0.8.1/broadcomMFD.cobol-language-support-0.8.1.vsix
