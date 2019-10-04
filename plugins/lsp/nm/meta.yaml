@@ -1,0 +1,13 @@
+publisher: lsp nm publisher
+apiVersion: v2
+name: lsp nm name
+version: latest
+type: VS Code extension
+displayName: lsp nm displayName
+title: lsp nm title.
+description: lsp nm description hhh.
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+category: Other
+spec:
+  extensions:
+  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/lsp0.8.1nm/cobol-language-support-0.8.1.vsix
