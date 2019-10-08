@@ -1,0 +1,13 @@
+publisher: lsp publisher
+apiVersion: v2
+name: lsp name
+version: latest
+type: VS Code extension
+displayName: lsp displayName
+title: lsp title.
+description: lsp description latest.
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+category: Other
+spec:
+  extensions:
+  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/lsp_latest/cobol-language-support_latest.vsix
