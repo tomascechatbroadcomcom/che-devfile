@@ -10,4 +10,4 @@ icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 category: Other
 spec:
   extensions:
-  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/lsp_latest/cobol-language-support_latest.vsix
+  - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/lsp_latest/cobol-language-support-0.8.2.vsix
