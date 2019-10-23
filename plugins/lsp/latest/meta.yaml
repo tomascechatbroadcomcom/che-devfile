@@ -1,6 +1,6 @@
 publisher: lsp publisher
 apiVersion: v2
-name: lsp name
+name: lspname
 version: latest
 type: VS Code extension
 displayName: lsp displayName
@@ -10,8 +10,7 @@ icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 category: Other
 spec:
   containers:
-  - image: "docker.io/eclipse/che-remote-plugin-runner-java8:next"
-    name: vscode-java
-    memoryLimit: "1500Mi"
+    - image: eclipse/che-remote-plugin-runner-java8
+      memoryLimit: 512Mi
   extensions:
   - https://github.com/tomascechatbroadcomcom/che-devfile/releases/download/lsp_latest/cobol-language-support-0.8.2.vsix
